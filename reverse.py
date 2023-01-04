@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-#@CallMeRep
-#Simple Reverse IP Cidr
 
 from threading import *
 from threading import Thread

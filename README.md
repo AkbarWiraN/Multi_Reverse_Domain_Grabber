@@ -6,6 +6,7 @@
 <br>[!] Download Python For Win 7+ : https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
 ### How To Run
 ```
+git clone https://github.com/AkbarWiraN/Multi_Reverse_Domain_Grabber.git
 pip install -r requirements.txt
 python reverse.py
 ```
